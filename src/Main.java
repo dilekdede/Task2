@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        JFrame frame = new JFrame("Sayı Tahmin Oyunu");
+        JFrame frame = new JFrame("Sayı Tahmin Oyunu"); //todo bir swing penceresi oluşturuyor
         frame.setSize(500, 500);
         frame.setResizable(false);
         frame.getContentPane().setLayout(null);
